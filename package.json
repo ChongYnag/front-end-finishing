@@ -1,0 +1,13 @@
+{
+    "name": "front-end-finishing",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "dependencies": {
+        "@vuepress/shared-utils": "^1.2.0"
+    }
+}
